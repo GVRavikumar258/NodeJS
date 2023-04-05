@@ -1,0 +1,6 @@
+
+let a=10;
+let b=20;
+let c=30;
+lrt d=a+b+c;
+console.log(d);
